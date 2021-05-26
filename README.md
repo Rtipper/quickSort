@@ -4,7 +4,7 @@
 **Version**: 1.0.0
 
 # Link to BLOG.md
-- 
+- https://github.com/Rtipper/quickSort/blob/main/BLOG.md
 
 ## Overview - CC28 Blog Article for mergeSort
 
