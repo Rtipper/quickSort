@@ -1,0 +1,20 @@
+{
+  "name": "quicksort",
+  "version": "1.0.0",
+  "description": "CC 28",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rtipper/quickSort.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rtipper/quickSort/issues"
+  },
+  "homepage": "https://github.com/Rtipper/quickSort#readme"
+}
